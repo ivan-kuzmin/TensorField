@@ -2,7 +2,7 @@ title: Tensor Field
 email: woof@heisen.me
 description: Skoltech project
 baseurl: "/TensorField" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://tensorfield.ml" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ivan-kuzmin
 plugins:
   - jekyll-feed
